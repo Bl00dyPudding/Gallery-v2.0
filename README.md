@@ -1,2 +1,2 @@
-# homeworkPHP
-GeekBrains PHP Level 1
+# Gallery v2.0
+Теперь хранит информацию о просмотрах картинки из галереи в БД
